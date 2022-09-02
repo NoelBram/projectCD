@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>659788470466-tdnnaun4n4t3mqs82athp2i19gtss80b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.659788470466-tdnnaun4n4t3mqs82athp2i19gtss80b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBjpKZGjeLyPCfNIZQOoTLdM2_Q7sPBnQ8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>659788470466</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.noelbrambila.bramblur</string>
+	<key>PROJECT_ID</key>
+	<string>seraphic-being-303723</string>
+	<key>STORAGE_BUCKET</key>
+	<string>seraphic-being-303723.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:659788470466:ios:997e317fab438501db835b</string>
+	<key>DATABASE_URL</key>
+	<string>https://seraphic-being-303723-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

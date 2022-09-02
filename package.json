@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "firebase": "^9.9.4",
+    "node-fetch": "^3.2.10"
+  }
+}
